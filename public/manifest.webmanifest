@@ -1,0 +1,16 @@
+{
+  "name": "Pledge Journey",
+  "short_name": "Pledge Journey",
+  "start_url": "/#admin",
+  "display": "standalone",
+  "background_color": "#f7fbfb",
+  "theme_color": "#0c8f5a",
+  "description": "Offline pledge and fundraising journey tracker.",
+  "icons": [
+    {
+      "src": "/road-to-camp-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
