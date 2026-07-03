@@ -174,4 +174,4 @@ You can replace the default setup with another campaign template or create a cus
 
 ## License
 
-Add a license before publishing the repository publicly.
+MIT License. See [LICENSE](LICENSE).
